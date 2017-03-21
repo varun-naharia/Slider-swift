@@ -1,0 +1,618 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "IndicatorView"
+- "IndicatorType"
+- "Indicator"
+- "ActivityIndicator"
+- "ImageIndicator"
+provides-nominal:
+- "O10Kingfisher13IndicatorType"
+- "P10Kingfisher9Indicator"
+- "V10Kingfisher17ActivityIndicator"
+- "V10Kingfisher14ImageIndicator"
+provides-member:
+- ["O10Kingfisher13IndicatorType", ""]
+- ["P10Kingfisher9Indicator", ""]
+- ["V10Kingfisher17ActivityIndicator", ""]
+- ["V10Kingfisher14ImageIndicator", ""]
+- ["P10Kingfisher9Indicator", "viewCenter"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "KingfisherEmptyOptionsInfo"
+- "ImageProcessor"
+- "AssignmentPrecedence"
+- "KingfisherOptionsInfo"
+- "NSProgressIndicator"
+- "ImageIndicator"
+- "Data"
+- "ActivityIndicator"
+- !private "CGRect"
+- !private "BooleanLiteralType"
+- !private "DefaultImageProcessor"
+- !private "!"
+- "Indicator"
+- "ImageView"
+- "IndicatorView"
+- "CGPoint"
+- !private "-"
+- "NSView"
+- !private "/"
+- "IndicatorType"
+- !private "+"
+depends-member:
+- !private ["V10Kingfisher17ActivityIndicator", "CGRect"]
+- ["V10Kingfisher17ActivityIndicator", "IndicatorView"]
+- ["V10Kingfisher17ActivityIndicator", "NSProgressIndicator"]
+- !private ["V10Kingfisher17ActivityIndicator", "activityIndicatorView"]
+- ["V10Kingfisher17ActivityIndicator", "deinit"]
+- ["V10Kingfisher17ActivityIndicator", "init"]
+- ["V10Kingfisher17ActivityIndicator", "startAnimatingView"]
+- ["V10Kingfisher17ActivityIndicator", "stopAnimatingView"]
+- ["V10Kingfisher17ActivityIndicator", "view"]
+- ["V10Kingfisher17ActivityIndicator", "viewCenter"]
+- !private ["Ps9AnyObject", "animates"]
+- !private ["Ps9AnyObject", "canDrawSubviewsIntoLayer"]
+- !private ["Ps9AnyObject", "controlSize"]
+- !private ["Ps9AnyObject", "frame"]
+- !private ["Ps9AnyObject", "image"]
+- !private ["Ps9AnyObject", "imageScaling"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isHidden"]
+- !private ["Ps9AnyObject", "startAnimation"]
+- !private ["Ps9AnyObject", "stopAnimation"]
+- !private ["Ps9AnyObject", "style"]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- !private ["Sa", "append"]
+- ["Sa", "deinit"]
+- !private ["Sa", "preloadAllGIFData"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- !private ["Ps23BidirectionalCollection", "preloadAllGIFData"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "append"]
+- !private ["Ps22BidirectionalIndexable", "preloadAllGIFData"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC7CGPoint", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- ["VSC6CGRect", "deinit"]
+- !private ["VSC6CGRect", "init"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["VSC6CGRect", "size"]
+- ["VSC6CGSize", "deinit"]
+- !private ["VSC6CGSize", "height"]
+- !private ["VSC6CGSize", "width"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "animates"]
+- !private ["Ps7CVarArg", "append"]
+- !private ["Ps7CVarArg", "canDrawSubviewsIntoLayer"]
+- !private ["Ps7CVarArg", "controlSize"]
+- !private ["Ps7CVarArg", "frame"]
+- !private ["Ps7CVarArg", "image"]
+- !private ["Ps7CVarArg", "imageScaling"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isHidden"]
+- !private ["Ps7CVarArg", "preloadAllGIFData"]
+- !private ["Ps7CVarArg", "startAnimation"]
+- !private ["Ps7CVarArg", "stopAnimation"]
+- !private ["Ps7CVarArg", "style"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "append"]
+- !private ["Ps10Collection", "preloadAllGIFData"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "animates"]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- !private ["Ps28CustomDebugStringConvertible", "canDrawSubviewsIntoLayer"]
+- !private ["Ps28CustomDebugStringConvertible", "controlSize"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- !private ["Ps28CustomDebugStringConvertible", "imageScaling"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isHidden"]
+- !private ["Ps28CustomDebugStringConvertible", "origin"]
+- !private ["Ps28CustomDebugStringConvertible", "preloadAllGIFData"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- !private ["Ps28CustomDebugStringConvertible", "startAnimation"]
+- !private ["Ps28CustomDebugStringConvertible", "stopAnimation"]
+- !private ["Ps28CustomDebugStringConvertible", "style"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- !private ["Ps28CustomDebugStringConvertible", "x"]
+- !private ["Ps28CustomDebugStringConvertible", "y"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "height"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "origin"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "size"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "width"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "x"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "y"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "append"]
+- !private ["Ps17CustomReflectable", "height"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "origin"]
+- !private ["Ps17CustomReflectable", "preloadAllGIFData"]
+- !private ["Ps17CustomReflectable", "size"]
+- !private ["Ps17CustomReflectable", "width"]
+- !private ["Ps17CustomReflectable", "x"]
+- !private ["Ps17CustomReflectable", "y"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "animates"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- !private ["Ps23CustomStringConvertible", "canDrawSubviewsIntoLayer"]
+- !private ["Ps23CustomStringConvertible", "controlSize"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- !private ["Ps23CustomStringConvertible", "imageScaling"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isHidden"]
+- !private ["Ps23CustomStringConvertible", "preloadAllGIFData"]
+- !private ["Ps23CustomStringConvertible", "startAnimation"]
+- !private ["Ps23CustomStringConvertible", "stopAnimation"]
+- !private ["Ps23CustomStringConvertible", "style"]
+- ["V10Foundation4Data", "deinit"]
+- !private ["V10Kingfisher21DefaultImageProcessor", "default"]
+- !private ["V10Kingfisher21DefaultImageProcessor", "deinit"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "animates"]
+- !private ["Ps9Equatable", "canDrawSubviewsIntoLayer"]
+- !private ["Ps9Equatable", "controlSize"]
+- !private ["Ps9Equatable", "frame"]
+- !private ["Ps9Equatable", "height"]
+- !private ["Ps9Equatable", "image"]
+- !private ["Ps9Equatable", "imageScaling"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isHidden"]
+- !private ["Ps9Equatable", "origin"]
+- !private ["Ps9Equatable", "scaleNone"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "small"]
+- !private ["Ps9Equatable", "spinningStyle"]
+- !private ["Ps9Equatable", "startAnimation"]
+- !private ["Ps9Equatable", "stopAnimation"]
+- !private ["Ps9Equatable", "style"]
+- !private ["Ps9Equatable", "width"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- !private ["Ps25ExpressibleByArrayLiteral", "preloadAllGIFData"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "animates"]
+- !private ["Ps8Hashable", "canDrawSubviewsIntoLayer"]
+- !private ["Ps8Hashable", "controlSize"]
+- !private ["Ps8Hashable", "frame"]
+- !private ["Ps8Hashable", "image"]
+- !private ["Ps8Hashable", "imageScaling"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isHidden"]
+- !private ["Ps8Hashable", "scaleNone"]
+- !private ["Ps8Hashable", "small"]
+- !private ["Ps8Hashable", "spinningStyle"]
+- !private ["Ps8Hashable", "startAnimation"]
+- !private ["Ps8Hashable", "stopAnimation"]
+- !private ["Ps8Hashable", "style"]
+- ["V10Kingfisher14ImageIndicator", "Data"]
+- !private ["V10Kingfisher14ImageIndicator", "DefaultImageProcessor"]
+- ["V10Kingfisher14ImageIndicator", "ImageProcessor"]
+- ["V10Kingfisher14ImageIndicator", "ImageView"]
+- ["V10Kingfisher14ImageIndicator", "IndicatorView"]
+- !private ["V10Kingfisher14ImageIndicator", "KingfisherEmptyOptionsInfo"]
+- ["V10Kingfisher14ImageIndicator", "KingfisherOptionsInfo"]
+- !private ["V10Kingfisher14ImageIndicator", "animatedImageIndicatorView"]
+- ["V10Kingfisher14ImageIndicator", "deinit"]
+- ["V10Kingfisher14ImageIndicator", "init"]
+- ["V10Kingfisher14ImageIndicator", "startAnimatingView"]
+- ["V10Kingfisher14ImageIndicator", "stopAnimatingView"]
+- ["V10Kingfisher14ImageIndicator", "view"]
+- ["V10Kingfisher14ImageIndicator", "viewCenter"]
+- !private ["O10Kingfisher16ImageProcessItem", "data"]
+- ["O10Kingfisher16ImageProcessItem", "deinit"]
+- !private ["P10Kingfisher14ImageProcessor", "default"]
+- ["P10Kingfisher14ImageProcessor", "deinit"]
+- !private ["P10Kingfisher14ImageProcessor", "process"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "append"]
+- !private ["Ps9Indexable", "preloadAllGIFData"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "append"]
+- !private ["Ps13IndexableBase", "preloadAllGIFData"]
+- !private ["Vs16IndexingIterator", "Element"]
+- ["P10Kingfisher9Indicator", "CGPoint"]
+- !private ["P10Kingfisher9Indicator", "CGRect"]
+- !private ["P10Kingfisher9Indicator", "DefaultImageProcessor"]
+- !private ["P10Kingfisher9Indicator", "ImageView"]
+- ["P10Kingfisher9Indicator", "IndicatorView"]
+- !private ["P10Kingfisher9Indicator", "KingfisherEmptyOptionsInfo"]
+- !private ["P10Kingfisher9Indicator", "NSProgressIndicator"]
+- !private ["P10Kingfisher9Indicator", "activityIndicatorView"]
+- !private ["P10Kingfisher9Indicator", "animatedImageIndicatorView"]
+- ["P10Kingfisher9Indicator", "startAnimatingView"]
+- ["P10Kingfisher9Indicator", "stopAnimatingView"]
+- ["P10Kingfisher9Indicator", "view"]
+- ["P10Kingfisher9Indicator", "viewCenter"]
+- ["P10Kingfisher9Indicator", ""]
+- ["O10Kingfisher13IndicatorType", "Data"]
+- ["O10Kingfisher13IndicatorType", "Indicator"]
+- ["O10Kingfisher13IndicatorType", "activity"]
+- ["O10Kingfisher13IndicatorType", "custom"]
+- ["O10Kingfisher13IndicatorType", "image"]
+- ["O10Kingfisher13IndicatorType", "none"]
+- ["Si", "deinit"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["P10Kingfisher20KingfisherCompatible", "animates"]
+- !private ["P10Kingfisher20KingfisherCompatible", "canDrawSubviewsIntoLayer"]
+- !private ["P10Kingfisher20KingfisherCompatible", "height"]
+- !private ["P10Kingfisher20KingfisherCompatible", "image"]
+- !private ["P10Kingfisher20KingfisherCompatible", "imageScaling"]
+- !private ["P10Kingfisher20KingfisherCompatible", "init"]
+- !private ["P10Kingfisher20KingfisherCompatible", "isHidden"]
+- !private ["P10Kingfisher20KingfisherCompatible", "width"]
+- ["O10Kingfisher25KingfisherOptionsInfoItem", "deinit"]
+- !private ["O10Kingfisher25KingfisherOptionsInfoItem", "preloadAllGIFData"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "append"]
+- !private ["Ps17MutableCollection", "preloadAllGIFData"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "append"]
+- !private ["Ps16MutableIndexable", "preloadAllGIFData"]
+- !private ["PSo15NSAccessibility", "animates"]
+- !private ["PSo15NSAccessibility", "canDrawSubviewsIntoLayer"]
+- !private ["PSo15NSAccessibility", "controlSize"]
+- !private ["PSo15NSAccessibility", "frame"]
+- !private ["PSo15NSAccessibility", "image"]
+- !private ["PSo15NSAccessibility", "imageScaling"]
+- !private ["PSo15NSAccessibility", "init"]
+- !private ["PSo15NSAccessibility", "isHidden"]
+- !private ["PSo15NSAccessibility", "startAnimation"]
+- !private ["PSo15NSAccessibility", "stopAnimation"]
+- !private ["PSo15NSAccessibility", "style"]
+- !private ["PSo30NSAccessibilityElementProtocol", "animates"]
+- !private ["PSo30NSAccessibilityElementProtocol", "canDrawSubviewsIntoLayer"]
+- !private ["PSo30NSAccessibilityElementProtocol", "controlSize"]
+- !private ["PSo30NSAccessibilityElementProtocol", "frame"]
+- !private ["PSo30NSAccessibilityElementProtocol", "image"]
+- !private ["PSo30NSAccessibilityElementProtocol", "imageScaling"]
+- !private ["PSo30NSAccessibilityElementProtocol", "init"]
+- !private ["PSo30NSAccessibilityElementProtocol", "isHidden"]
+- !private ["PSo30NSAccessibilityElementProtocol", "startAnimation"]
+- !private ["PSo30NSAccessibilityElementProtocol", "stopAnimation"]
+- !private ["PSo30NSAccessibilityElementProtocol", "style"]
+- !private ["PSo20NSAccessibilityGroup", "controlSize"]
+- !private ["PSo20NSAccessibilityGroup", "init"]
+- !private ["PSo20NSAccessibilityGroup", "isHidden"]
+- !private ["PSo20NSAccessibilityGroup", "startAnimation"]
+- !private ["PSo20NSAccessibilityGroup", "stopAnimation"]
+- !private ["PSo20NSAccessibilityGroup", "style"]
+- !private ["PSo20NSAccessibilityImage", "animates"]
+- !private ["PSo20NSAccessibilityImage", "canDrawSubviewsIntoLayer"]
+- !private ["PSo20NSAccessibilityImage", "image"]
+- !private ["PSo20NSAccessibilityImage", "imageScaling"]
+- !private ["PSo20NSAccessibilityImage", "init"]
+- !private ["PSo20NSAccessibilityImage", "isHidden"]
+- !private ["PSo32NSAccessibilityProgressIndicator", "controlSize"]
+- !private ["PSo32NSAccessibilityProgressIndicator", "init"]
+- !private ["PSo32NSAccessibilityProgressIndicator", "isHidden"]
+- !private ["PSo32NSAccessibilityProgressIndicator", "startAnimation"]
+- !private ["PSo32NSAccessibilityProgressIndicator", "stopAnimation"]
+- !private ["PSo32NSAccessibilityProgressIndicator", "style"]
+- !private ["PSo29NSAnimatablePropertyContainer", "animates"]
+- !private ["PSo29NSAnimatablePropertyContainer", "canDrawSubviewsIntoLayer"]
+- !private ["PSo29NSAnimatablePropertyContainer", "controlSize"]
+- !private ["PSo29NSAnimatablePropertyContainer", "frame"]
+- !private ["PSo29NSAnimatablePropertyContainer", "image"]
+- !private ["PSo29NSAnimatablePropertyContainer", "imageScaling"]
+- !private ["PSo29NSAnimatablePropertyContainer", "init"]
+- !private ["PSo29NSAnimatablePropertyContainer", "isHidden"]
+- !private ["PSo29NSAnimatablePropertyContainer", "startAnimation"]
+- !private ["PSo29NSAnimatablePropertyContainer", "stopAnimation"]
+- !private ["PSo29NSAnimatablePropertyContainer", "style"]
+- !private ["PSo25NSAppearanceCustomization", "animates"]
+- !private ["PSo25NSAppearanceCustomization", "canDrawSubviewsIntoLayer"]
+- !private ["PSo25NSAppearanceCustomization", "controlSize"]
+- !private ["PSo25NSAppearanceCustomization", "frame"]
+- !private ["PSo25NSAppearanceCustomization", "image"]
+- !private ["PSo25NSAppearanceCustomization", "imageScaling"]
+- !private ["PSo25NSAppearanceCustomization", "init"]
+- !private ["PSo25NSAppearanceCustomization", "isHidden"]
+- !private ["PSo25NSAppearanceCustomization", "startAnimation"]
+- !private ["PSo25NSAppearanceCustomization", "stopAnimation"]
+- !private ["PSo25NSAppearanceCustomization", "style"]
+- !private ["PSo8NSCoding", "animates"]
+- !private ["PSo8NSCoding", "canDrawSubviewsIntoLayer"]
+- !private ["PSo8NSCoding", "controlSize"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "imageScaling"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isHidden"]
+- !private ["PSo8NSCoding", "startAnimation"]
+- !private ["PSo8NSCoding", "stopAnimation"]
+- !private ["PSo8NSCoding", "style"]
+- !private ["CSo9NSControl", "animates"]
+- !private ["CSo9NSControl", "canDrawSubviewsIntoLayer"]
+- !private ["CSo9NSControl", "image"]
+- !private ["CSo9NSControl", "imageScaling"]
+- !private ["CSo9NSControl", "init"]
+- !private ["CSo9NSControl", "isHidden"]
+- ["OSC13NSControlSize", "deinit"]
+- !private ["OSC13NSControlSize", "small"]
+- !private ["PSo21NSDraggingDestination", "animates"]
+- !private ["PSo21NSDraggingDestination", "canDrawSubviewsIntoLayer"]
+- !private ["PSo21NSDraggingDestination", "controlSize"]
+- !private ["PSo21NSDraggingDestination", "frame"]
+- !private ["PSo21NSDraggingDestination", "image"]
+- !private ["PSo21NSDraggingDestination", "imageScaling"]
+- !private ["PSo21NSDraggingDestination", "init"]
+- !private ["PSo21NSDraggingDestination", "isHidden"]
+- !private ["PSo21NSDraggingDestination", "startAnimation"]
+- !private ["PSo21NSDraggingDestination", "stopAnimation"]
+- !private ["PSo21NSDraggingDestination", "style"]
+- ["CSo7NSImage", "deinit"]
+- ["OSC14NSImageScaling", "deinit"]
+- !private ["OSC14NSImageScaling", "scaleNone"]
+- !private ["CSo11NSImageView", "animates"]
+- !private ["CSo11NSImageView", "canDrawSubviewsIntoLayer"]
+- ["CSo11NSImageView", "deinit"]
+- !private ["CSo11NSImageView", "image"]
+- !private ["CSo11NSImageView", "imageScaling"]
+- !private ["CSo11NSImageView", "init"]
+- !private ["CSo11NSImageView", "isHidden"]
+- !private ["CSo8NSObject", "animates"]
+- !private ["CSo8NSObject", "canDrawSubviewsIntoLayer"]
+- !private ["CSo8NSObject", "controlSize"]
+- !private ["CSo8NSObject", "frame"]
+- !private ["CSo8NSObject", "image"]
+- !private ["CSo8NSObject", "imageScaling"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isHidden"]
+- !private ["CSo8NSObject", "startAnimation"]
+- !private ["CSo8NSObject", "stopAnimation"]
+- !private ["CSo8NSObject", "style"]
+- !private ["PSo16NSObjectProtocol", "animates"]
+- !private ["PSo16NSObjectProtocol", "canDrawSubviewsIntoLayer"]
+- !private ["PSo16NSObjectProtocol", "controlSize"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "imageScaling"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isHidden"]
+- !private ["PSo16NSObjectProtocol", "startAnimation"]
+- !private ["PSo16NSObjectProtocol", "stopAnimation"]
+- !private ["PSo16NSObjectProtocol", "style"]
+- !private ["CSo19NSProgressIndicator", "controlSize"]
+- ["CSo19NSProgressIndicator", "deinit"]
+- !private ["CSo19NSProgressIndicator", "init"]
+- !private ["CSo19NSProgressIndicator", "isHidden"]
+- !private ["CSo19NSProgressIndicator", "startAnimation"]
+- !private ["CSo19NSProgressIndicator", "stopAnimation"]
+- !private ["CSo19NSProgressIndicator", "style"]
+- ["OSC24NSProgressIndicatorStyle", "deinit"]
+- !private ["OSC24NSProgressIndicatorStyle", "spinningStyle"]
+- !private ["CSo11NSResponder", "animates"]
+- !private ["CSo11NSResponder", "canDrawSubviewsIntoLayer"]
+- !private ["CSo11NSResponder", "controlSize"]
+- !private ["CSo11NSResponder", "frame"]
+- !private ["CSo11NSResponder", "image"]
+- !private ["CSo11NSResponder", "imageScaling"]
+- !private ["CSo11NSResponder", "init"]
+- !private ["CSo11NSResponder", "isHidden"]
+- !private ["CSo11NSResponder", "startAnimation"]
+- !private ["CSo11NSResponder", "stopAnimation"]
+- !private ["CSo11NSResponder", "style"]
+- !private ["PSo18NSTouchBarProvider", "animates"]
+- !private ["PSo18NSTouchBarProvider", "canDrawSubviewsIntoLayer"]
+- !private ["PSo18NSTouchBarProvider", "controlSize"]
+- !private ["PSo18NSTouchBarProvider", "frame"]
+- !private ["PSo18NSTouchBarProvider", "image"]
+- !private ["PSo18NSTouchBarProvider", "imageScaling"]
+- !private ["PSo18NSTouchBarProvider", "init"]
+- !private ["PSo18NSTouchBarProvider", "isHidden"]
+- !private ["PSo18NSTouchBarProvider", "startAnimation"]
+- !private ["PSo18NSTouchBarProvider", "stopAnimation"]
+- !private ["PSo18NSTouchBarProvider", "style"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "animates"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "canDrawSubviewsIntoLayer"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "controlSize"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "frame"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "image"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "imageScaling"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "init"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "isHidden"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "startAnimation"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "stopAnimation"]
+- !private ["PSo33NSUserInterfaceItemIdentification", "style"]
+- !private ["CSo6NSView", "animates"]
+- !private ["CSo6NSView", "canDrawSubviewsIntoLayer"]
+- !private ["CSo6NSView", "controlSize"]
+- ["CSo6NSView", "deinit"]
+- !private ["CSo6NSView", "frame"]
+- !private ["CSo6NSView", "image"]
+- !private ["CSo6NSView", "imageScaling"]
+- !private ["CSo6NSView", "init"]
+- !private ["CSo6NSView", "isHidden"]
+- !private ["CSo6NSView", "startAnimation"]
+- !private ["CSo6NSView", "stopAnimation"]
+- !private ["CSo6NSView", "style"]
+- ["Sq", "deinit"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "append"]
+- !private ["Ps22RandomAccessCollection", "preloadAllGIFData"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "append"]
+- !private ["Ps21RandomAccessIndexable", "preloadAllGIFData"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- !private ["Ps26RangeReplaceableCollection", "preloadAllGIFData"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "append"]
+- !private ["Ps25RangeReplaceableIndexable", "preloadAllGIFData"]
+- !private ["Ps16RawRepresentable", "scaleNone"]
+- !private ["Ps16RawRepresentable", "small"]
+- !private ["Ps16RawRepresentable", "spinningStyle"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "append"]
+- !private ["Ps8Sequence", "preloadAllGIFData"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- !private ["Ps14_ArrayProtocol", "preloadAllGIFData"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "animates"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "canDrawSubviewsIntoLayer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "controlSize"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "frame"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "imageScaling"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isHidden"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "startAnimation"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "stopAnimation"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "style"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- !private ["Ps24_DestructorSafeContainer", "preloadAllGIFData"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "animates"]
+- !private ["Ps9_Hashable", "canDrawSubviewsIntoLayer"]
+- !private ["Ps9_Hashable", "controlSize"]
+- !private ["Ps9_Hashable", "frame"]
+- !private ["Ps9_Hashable", "image"]
+- !private ["Ps9_Hashable", "imageScaling"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isHidden"]
+- !private ["Ps9_Hashable", "scaleNone"]
+- !private ["Ps9_Hashable", "small"]
+- !private ["Ps9_Hashable", "spinningStyle"]
+- !private ["Ps9_Hashable", "startAnimation"]
+- !private ["Ps9_Hashable", "stopAnimation"]
+- !private ["Ps9_Hashable", "style"]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "append"]
+- !private ["Ps21_ObjectiveCBridgeable", "height"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "origin"]
+- !private ["Ps21_ObjectiveCBridgeable", "preloadAllGIFData"]
+- !private ["Ps21_ObjectiveCBridgeable", "size"]
+- !private ["Ps21_ObjectiveCBridgeable", "width"]
+- !private ["Ps21_ObjectiveCBridgeable", "x"]
+- !private ["Ps21_ObjectiveCBridgeable", "y"]
+depends-nominal:
+- "V10Kingfisher17ActivityIndicator"
+- !private "Ps9AnyObject"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "Sb"
+- "V12CoreGraphics7CGFloat"
+- "VSC7CGPoint"
+- "VSC6CGRect"
+- "VSC6CGSize"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- !private "V10Kingfisher21DefaultImageProcessor"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps8Hashable"
+- "V10Kingfisher14ImageIndicator"
+- "O10Kingfisher16ImageProcessItem"
+- "P10Kingfisher14ImageProcessor"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "P10Kingfisher9Indicator"
+- "O10Kingfisher13IndicatorType"
+- "Si"
+- !private "Ps16IteratorProtocol"
+- !private "P10Kingfisher20KingfisherCompatible"
+- "O10Kingfisher25KingfisherOptionsInfoItem"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- !private "PSo15NSAccessibility"
+- !private "PSo30NSAccessibilityElementProtocol"
+- !private "PSo20NSAccessibilityGroup"
+- !private "PSo20NSAccessibilityImage"
+- !private "PSo32NSAccessibilityProgressIndicator"
+- !private "PSo29NSAnimatablePropertyContainer"
+- !private "PSo25NSAppearanceCustomization"
+- !private "PSo8NSCoding"
+- !private "CSo9NSControl"
+- "OSC13NSControlSize"
+- !private "PSo21NSDraggingDestination"
+- "CSo7NSImage"
+- "OSC14NSImageScaling"
+- "CSo11NSImageView"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- "CSo19NSProgressIndicator"
+- "OSC24NSProgressIndicatorStyle"
+- !private "CSo11NSResponder"
+- !private "PSo18NSTouchBarProvider"
+- !private "PSo33NSUserInterfaceItemIdentification"
+- "CSo6NSView"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+interface-hash: "a5473ca30ea19d01fe0d808d2be02d47"

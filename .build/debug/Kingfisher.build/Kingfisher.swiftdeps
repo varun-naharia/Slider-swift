@@ -1,0 +1,165 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Image"
+- "Color"
+- "ImageView"
+- "Button"
+- "Kingfisher"
+- "KingfisherCompatible"
+provides-nominal:
+- "C10Kingfisher10Kingfisher"
+- "P10Kingfisher20KingfisherCompatible"
+- "CSo7NSImage"
+- "CSo11NSImageView"
+- "CSo8NSButton"
+provides-member:
+- ["C10Kingfisher10Kingfisher", ""]
+- ["P10Kingfisher20KingfisherCompatible", ""]
+- ["CSo7NSImage", ""]
+- ["CSo11NSImageView", ""]
+- ["CSo8NSButton", ""]
+- ["P10Kingfisher20KingfisherCompatible", "kf"]
+provides-dynamic-lookup:
+depends-top-level:
+- "NSButton"
+- "Kingfisher"
+- "NSColor"
+- "NSImage"
+- "ImageView"
+- "Button"
+- "KingfisherCompatible"
+- "AssignmentPrecedence"
+- "Image"
+- "Color"
+- "NSImageView"
+depends-member:
+- ["Ps9AnyObject", "CompatibleType"]
+- !private ["Ps9AnyObject", "base"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "kf"]
+- ["Ps9AnyObject", ""]
+- ["Ps7CVarArg", "CompatibleType"]
+- ["Ps7CVarArg", "kf"]
+- ["Ps28CustomDebugStringConvertible", "CompatibleType"]
+- ["Ps28CustomDebugStringConvertible", "kf"]
+- ["Ps23CustomStringConvertible", "CompatibleType"]
+- ["Ps23CustomStringConvertible", "kf"]
+- ["Ps9Equatable", "CompatibleType"]
+- ["Ps9Equatable", "kf"]
+- ["Ps8Hashable", "CompatibleType"]
+- ["Ps8Hashable", "kf"]
+- ["C10Kingfisher10Kingfisher", "Base"]
+- ["C10Kingfisher10Kingfisher", "base"]
+- ["C10Kingfisher10Kingfisher", "deinit"]
+- ["C10Kingfisher10Kingfisher", "init"]
+- ["P10Kingfisher20KingfisherCompatible", "CompatibleType"]
+- ["P10Kingfisher20KingfisherCompatible", "Kingfisher"]
+- ["P10Kingfisher20KingfisherCompatible", "Self"]
+- ["P10Kingfisher20KingfisherCompatible", "kf"]
+- ["P10Kingfisher20KingfisherCompatible", ""]
+- ["PSo15NSAccessibility", "CompatibleType"]
+- ["PSo15NSAccessibility", "kf"]
+- ["PSo21NSAccessibilityButton", "CompatibleType"]
+- ["PSo21NSAccessibilityButton", "kf"]
+- ["PSo30NSAccessibilityElementProtocol", "CompatibleType"]
+- ["PSo30NSAccessibilityElementProtocol", "kf"]
+- ["PSo20NSAccessibilityImage", "CompatibleType"]
+- ["PSo20NSAccessibilityImage", "kf"]
+- ["PSo29NSAnimatablePropertyContainer", "CompatibleType"]
+- ["PSo29NSAnimatablePropertyContainer", "kf"]
+- ["PSo25NSAppearanceCustomization", "CompatibleType"]
+- ["PSo25NSAppearanceCustomization", "kf"]
+- ["CSo8NSButton", "CompatibleType"]
+- ["CSo8NSButton", "deinit"]
+- ["CSo8NSButton", "kf"]
+- ["PSo8NSCoding", "CompatibleType"]
+- ["PSo8NSCoding", "kf"]
+- ["CSo9NSControl", "CompatibleType"]
+- ["CSo9NSControl", "kf"]
+- ["PSo9NSCopying", "CompatibleType"]
+- ["PSo9NSCopying", "kf"]
+- ["PSo21NSDraggingDestination", "CompatibleType"]
+- ["PSo21NSDraggingDestination", "kf"]
+- ["CSo7NSImage", "CompatibleType"]
+- ["CSo7NSImage", "deinit"]
+- ["CSo7NSImage", "kf"]
+- ["CSo11NSImageView", "CompatibleType"]
+- ["CSo11NSImageView", "deinit"]
+- ["CSo11NSImageView", "kf"]
+- ["CSo8NSObject", "CompatibleType"]
+- ["CSo8NSObject", "kf"]
+- ["PSo16NSObjectProtocol", "CompatibleType"]
+- ["PSo16NSObjectProtocol", "kf"]
+- ["PSo19NSPasteboardReading", "CompatibleType"]
+- ["PSo19NSPasteboardReading", "kf"]
+- ["PSo19NSPasteboardWriting", "CompatibleType"]
+- ["PSo19NSPasteboardWriting", "kf"]
+- ["CSo11NSResponder", "CompatibleType"]
+- ["CSo11NSResponder", "kf"]
+- ["PSo14NSSecureCoding", "CompatibleType"]
+- ["PSo14NSSecureCoding", "kf"]
+- ["PSo18NSTouchBarProvider", "CompatibleType"]
+- ["PSo18NSTouchBarProvider", "kf"]
+- ["PSo33NSUserInterfaceItemIdentification", "CompatibleType"]
+- ["PSo33NSUserInterfaceItemIdentification", "kf"]
+- ["PSo26NSUserInterfaceValidations", "CompatibleType"]
+- ["PSo26NSUserInterfaceValidations", "kf"]
+- ["CSo6NSView", "CompatibleType"]
+- ["CSo6NSView", "kf"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "CompatibleType"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "kf"]
+- ["Ps26_ExpressibleByImageLiteral", "CompatibleType"]
+- ["Ps26_ExpressibleByImageLiteral", "kf"]
+- ["Ps9_Hashable", "CompatibleType"]
+- ["Ps9_Hashable", "kf"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "C10Kingfisher10Kingfisher"
+- "P10Kingfisher20KingfisherCompatible"
+- "PSo15NSAccessibility"
+- "PSo21NSAccessibilityButton"
+- "PSo30NSAccessibilityElementProtocol"
+- "PSo20NSAccessibilityImage"
+- "PSo29NSAnimatablePropertyContainer"
+- "PSo25NSAppearanceCustomization"
+- "CSo8NSButton"
+- "PSo8NSCoding"
+- "CSo9NSControl"
+- "PSo9NSCopying"
+- "PSo21NSDraggingDestination"
+- "CSo7NSImage"
+- "CSo11NSImageView"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo19NSPasteboardReading"
+- "PSo19NSPasteboardWriting"
+- "CSo11NSResponder"
+- "PSo14NSSecureCoding"
+- "PSo18NSTouchBarProvider"
+- "PSo33NSUserInterfaceItemIdentification"
+- "PSo26NSUserInterfaceValidations"
+- "CSo6NSView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps26_ExpressibleByImageLiteral"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+interface-hash: "35ea6298709098d8605f98c506221c57"

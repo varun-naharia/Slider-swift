@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "b7228622a6a50fb0124e0234b9e1d7be"
+build_time: [543387010, 114392000]
+inputs:
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Slider-swift/AppDelegate/AppDelegate.swift": !dirty [543387005, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Slider-swift/MVC/Controller/ViewController.swift": !dirty [543328250, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Slider-swift/MVC/View/Slider/Slider.swift": !dirty [543386830, 0]

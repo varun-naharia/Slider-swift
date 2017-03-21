@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/master.swiftdeps"
+  },
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Slider-swift/AppDelegate/AppDelegate.swift": {
+    "dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/AppDelegate.d",
+    "object": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/AppDelegate/AppDelegate.swift.o",
+    "swiftmodule": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/AppDelegate.swiftdeps"
+  },
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Slider-swift/MVC/Controller/ViewController.swift": {
+    "dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/ViewController.d",
+    "object": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/MVC/Controller/ViewController.swift.o",
+    "swiftmodule": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/ViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/ViewController.swiftdeps"
+  },
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Slider-swift/MVC/View/Slider/Slider.swift": {
+    "dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/Slider.d",
+    "object": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/MVC/View/Slider/Slider.swift.o",
+    "swiftmodule": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/Slider~partial.swiftmodule",
+    "swift-dependencies": "/Users/varunnaharia/Documents/Demo/Slider-swift/.build/debug/Slider_swift.build/Slider.swiftdeps"
+  }
+}

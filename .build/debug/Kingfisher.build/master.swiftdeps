@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "21fd4e745e8478634595434579644f8a"
+build_time: [543386950, 202648000]
+inputs:
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/Box.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/CacheSerializer.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/Filter.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/Image.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ImageCache.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ImageDownloader.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ImagePrefetcher.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ImageProcessor.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ImageTransition.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ImageView+Kingfisher.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/Indicator.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/Kingfisher.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/KingfisherManager.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/KingfisherOptionsInfo.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/NSButton+Kingfisher.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/RequestModifier.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/Resource.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/String+MD5.swift": [543386545, 0]
+  "/Users/varunnaharia/Documents/Demo/Slider-swift/Packages/Kingfisher-3.5.2/Sources/ThreadHelper.swift": [543386545, 0]
